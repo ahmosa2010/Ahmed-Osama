@@ -1,0 +1,3 @@
+After creating a user with a valid user name and password my code open a browser and navigate to facebook then get the data from excel to apply data driven then try them
+if success will print in the console test case passed
+if failed will print in the console test case failed
